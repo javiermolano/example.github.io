@@ -1,0 +1,36 @@
+h1 {
+    color: hsl(0, 0%, 0%);
+    text-align: center;
+}
+
+h2 {
+    color: hsl(133, 86%, 20%);
+    text-align: center;
+}
+
+.code {
+    color: hsl(133, 89%, 29%);
+}
+
+table {
+    border: 2px solid hsl(0, 0%, 0%);
+    width: 600px;
+    margin: 0 auto;
+    
+}
+
+td {
+    border-top: 2px solid hsl(0, 0%, 30%);;
+}
+
+body {
+    background-color: hsl(134, 26%, 74%);
+}
+
+th {
+    background-color: hsl(135, 31%, 52%);
+}
+
+span {
+    background-color: hsl(0, 0%, 100%);
+}
